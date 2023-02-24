@@ -1,0 +1,35 @@
+main {
+    background-color:  rgb(53, 113, 243);
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+section {
+    background-color: white;
+    width: 70%;
+    padding: 20px 10px;
+}
+
+#cinza {
+    background-color: rgb(189, 189, 189);
+}
+
+#s2 {
+    width: 30%;
+    background-color: rgb(189, 189, 189);
+}
+
+section article {
+    display: flex;
+    background-color: rgb(53, 113, 243);
+    box-shadow: 5px 10px black;
+
+}
+
+h1, p {
+    color: black;
+}
